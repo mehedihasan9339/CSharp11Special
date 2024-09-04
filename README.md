@@ -51,7 +51,7 @@ The `nameof` operator has been enhanced to support more contexts, including gene
 
 Enhanced `or` patterns in `switch` statements allow handling multiple case values more concisely and clearly.
 
-- **Example**: The `switch` statement uses `or` patterns to handle multiple values (`1 or 2`, `3 or 4`).
+- **Example**: The `switch` statement uses `or` patterns to handle multiple values (`1 or 2`, `3 or 4 or 5`).
 
 
 
