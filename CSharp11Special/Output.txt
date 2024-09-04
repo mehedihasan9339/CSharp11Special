@@ -1,0 +1,17 @@
+﻿Starts with 1, 2 and has 2 more elements.
+Person: Name = Alice, Age = 30
+JSON: {
+    "name": "John",
+    "age": 30
+}
+Sum of 5 and 10: 15
+Sum of 3.5 and 4.5: 8
+Zero: 0, One: 1
+UTF-8 Encoded Bytes: 48-65-6C-6C-6F-2C-20-77-6F-72-6C-64-21
+Decoded UTF-8 String: Hello, world!
+TypeName: T
+Value is 3 or 4
+
+C:\MyDrive\CSharp11Special\CSharp11Special\bin\Debug\net8.0\CSharp11Special.exe (process 20672) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

@@ -47,14 +47,27 @@ class Program
             case 1 or 2:
                 Console.WriteLine("Value is 1 or 2");
                 break;
-            case 3 or 4:
-                Console.WriteLine("Value is 3 or 4");
+            case 3 or 4 or 5:
+                Console.WriteLine("Value is 3 or 4 or 5");
                 break;
             default:
                 Console.WriteLine("Value is something else");
                 break;
         }
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     // Helper method for Generic Math
     static T Add<T>(T a, T b) where T : INumber<T>
